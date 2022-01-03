@@ -1,0 +1,43 @@
+.container{
+    display:block;
+    background-color: rgb(236, 218, 185);
+    width:30%;
+    height:650px;
+    margin: 0 auto;
+    padding: 0px 50px 10px;
+    text-align: justify;
+}
+h4{
+    color: 	rgb(12, 202, 155);
+    font-size: 15px;
+}
+#fname{
+    border: 1px solid red;
+}
+#lname{
+    border: 1px solid red;
+}
+#email{
+    border: 1px solid red;
+}
+#psw{
+    border: 1px solid red;
+}
+#birthday{
+    border: 1px solid red;
+}
+#submit{
+    border: 1px solid red;
+    padding: 2px 3px;
+}
+#quantity{
+    border: 1px solid red;
+}
+#signup{
+    border: 2px ridge rgb(0, 255, 64);
+    background-color: rgb(57, 198, 128);
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-size: 15px;
+    color:white;
+}
